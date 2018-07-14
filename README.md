@@ -17,9 +17,12 @@ staff would scan a barcode. A desktop application was chosen as the majority
 of the building lacked a WiFi connection.
 
 When enough stacks to fill a vehicle had been built, staff would return to an
-office and run a process to assign an identifier to each stack and upload it
-to a remote database, via an application setup for this purpose by the
-library's IT department (see below).
+office and run a process to assign an identifier to each stack and upload the
+results to a remote database, making use of an application setup to assist the
+newspaper moves project by the library's IT department (see below).
+
+With all of the stacks to fill a vehicle recorded a set of reports could be
+printed.
 
 ## Motivation
 
