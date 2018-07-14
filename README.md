@@ -30,16 +30,16 @@ While I was not employed as a developer at the time, I was studying towards
 my Computing and IT degree with a focus on Java and was keen to find a place
 to apply these skills. The second application mentioned above, not built be me,
 was the only one provided by the library's IT department and it was frankly
-insufficient. While the system did generate the stacks automatically, this was
-based on the assumption that the metadata collected about each item was
-correct, which it often wasn't. This meant that the items in each stack would
-have to be changed, a process that could only be completed while in an
-internet-connected office. This essentially meant we were left with a pen and
-paper solution, where staff would have to print out stack lists, go and find
-those items, realise they didn't fit, attempt to locate alternatives (referring
-to another paper list) then write down the barcode numbers and return to the
-office to manually key them in. In such a large building this was a ridiculous
-solution.
+insufficient. While the system did attempt to generate the stacks
+automatically, this was based on the assumption that the metadata collected
+about each item was correct, which it often wasn't. This meant that the items
+in each stack would have to be changed, a process that could only be completed
+while in an internet-connected office. This essentially meant we were left with
+a pen and paper solution, where staff would have to print out stack lists,
+physically locate those items, realise they don't fit, attempt to locate
+alternatives (referring to another paper list), then write down the barcode
+numbers and return to the office to manually key them in. In such a large
+building this was a ridiculous solution.
 
 This isn't necessarily a criticism of the individual staff members that
 developed this solution. Rather, the library's IT departments are grosly
