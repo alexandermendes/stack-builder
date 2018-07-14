@@ -1,5 +1,7 @@
 # stack-builder
 
+> An application that was used to organise the BL Newspaper Moves project.
+
 ## Overview
 
 In 2014, I built this Java Swing application to help organise the movement of
@@ -46,7 +48,7 @@ would not have been completed in time had we relied on the system provided.
 
 The application generated inventory reports that were sent with each vehicle.
 
-- [20-Aug-2014](reports/inventory-18-Mar-2014.pdf)
+- [20-Aug-2014](reports/inventory-20-Aug-2014.pdf)
 
 As a supplementry function, statistical reports were generated as PDFs and
 presented to the project board.
@@ -55,4 +57,9 @@ presented to the project board.
 - [14-Apr-2014](reports/stats-14-Apr-2014.pdf)
 - [11-Nov-2014](reports/stats-11-Nov-2014.pdf)
 
+## Version
 
+Unfortunately, as this application was built in 2014, before I began using git
+for version control, I could not find the final version of the application.
+The version included here was still a work in progress but gives some idea
+of what was built.
