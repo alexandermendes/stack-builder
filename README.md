@@ -66,3 +66,6 @@ Unfortunately, as this application was built in 2014, before I began using git
 for version control, I could not find the final version of the application.
 The version included here was still a work in progress but gives some idea
 of what was built.
+
+Further, I compiled the application as a Windows executable for distribution
+and this compiled version is all that I could find.
