@@ -46,13 +46,13 @@ would not have been completed in time had we relied on the system provided.
 
 The application generated inventory reports that were sent with each vehicle.
 
-- [20-Aug-2014](reports/inventory-18-Mar-2014)
+- [20-Aug-2014](reports/inventory-18-Mar-2014.pdf)
 
 As a supplementry function, statistical reports were generated as PDFs and
 presented to the project board.
 
-- [18-Mar-2014](reports/stats-18-Mar-2014)
-- [14-Apr-2014](reports/stats-14-Apr-2014)
-- [11-Nov-2014](reports/stats-11-Nov-2014)
+- [18-Mar-2014](reports/stats-18-Mar-2014.pdf)
+- [14-Apr-2014](reports/stats-14-Apr-2014.pdf)
+- [11-Nov-2014](reports/stats-11-Nov-2014.pdf)
 
 
