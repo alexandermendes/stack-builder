@@ -22,34 +22,7 @@ results to a remote database, making use of an application setup to assist the
 newspaper moves project by the library's IT department (see below).
 
 With all of the stacks to fill a vehicle recorded a set of reports could be
-printed.
-
-## Motivation
-
-While I was not employed as a developer at the time, I was studying towards
-my Computing and IT degree with a focus on Java and was keen to find a place
-to apply these skills. The second application mentioned above, not built be me,
-was the only one provided by the library's IT department and it was frankly
-insufficient. While the system did attempt to generate the stacks
-automatically, this was based on the assumption that the metadata collected
-about each item was correct, which it often wasn't. This meant that the items
-in each stack would have to be changed, a process that could only be completed
-while in an internet-connected office. This essentially meant we were left with
-a pen and paper solution, where staff would have to print out stack lists,
-physically locate those items, realise they don't fit, attempt to locate
-alternatives (referring to another paper list), then write down the barcode
-numbers and return to the office to manually key them in. In such a large
-building this was a ridiculous solution.
-
-This isn't necessarily a criticism of the individual staff members that
-developed this solution. Rather, the library's IT departments are grosly
-understaffed and underfunded, leading to inefficient and often broken solutions
-throughout. In any case, I genuinely belive that the newspaper moves project
-would not have been completed in time had we relied on the system provided.
-
-## Reports
-
-The application generated inventory reports that were sent with each vehicle.
+printed, such as the example inventory report below.
 
 - [20-Aug-2014](reports/inventory-20-Aug-2014.pdf)
 
@@ -62,8 +35,8 @@ presented to the project board.
 
 ## Version
 
-Unfortunately, as this application was built in 2014, before I began using git
-for version control, I could not find the final version of the application.
+Unfortunately, as this application was built in 2014 (before I began using git
+for version control) I could not find the final version of the application.
 The version included here was still a work in progress but gives some idea
 of what was built. Further, I compiled the application for distribution
 using (using NetBeans, as far as I remember) and this compiled version is all
